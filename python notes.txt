@@ -15,3 +15,34 @@ math operators in python:
     sequence by which the operators are performed in python:
         **,*,/,//,%,-,+
     
+string:
+    string concatenation: "string1" + "string2"
+    string concatenation: "string1" + variable_name_containing_string
+    string concatenation: variable_name_containing_string + variable_name_containing_string
+    
+
+variables:
+    rules for variable declaration:
+        1. You can't use the name for the variable which is already a python keyword like print, for, etc.
+        2. Variable name can be started with _ but it cannot start with the number, special characters.
+        
+        
+variable type conversion:
+    str(variable_name)                      (this will convert variable to string)
+    int(variable_name)                      (this will convert variable to integer)
+    float(variable_name)                    (this will convert vaiable to float)
+    like this we can convert different types of variables.
+    
+    ** we can check the variable type by type(variable_name) function**
+    
+lenth funnction:
+    len(variable_name)                      (it will give us the length of the variable means how much characters are there in the string or list)
+    
+    
+    
+true or false:
+    wording for true and false:
+        True                                (it will tell if the condition or expression you specified is true)
+        False                               (it will tell if the condition or expression you specified is flase)
+    
+
