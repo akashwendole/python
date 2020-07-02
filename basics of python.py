@@ -12,4 +12,4 @@ print("The result is: " + str(result))
 
 
 
-print()
+print("\n\n\n")

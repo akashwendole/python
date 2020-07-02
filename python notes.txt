@@ -46,3 +46,46 @@ true or false:
         False                               (it will tell if the condition or expression you specified is flase)
     
 
+
+If statement:
+    syntax:
+        if expression1 == expression2:
+            do something
+        else:
+            do something
+
+            
+while loops:
+    syntax:
+        while condition:
+            do something
+    while loop is a loop in which if the condition given to the loop does not get specified then it will run endlessly or infinite loop and if the condition specified is correct then it will break out of the loop.
+    while loops can also be a infinite loop by using following syntax:
+        while true:
+            do something
+    
+    continue statement:
+        it is a keyword in python in which if we use that then when the program comes to that line in which continue is specified then it will go to to starting of the program but it will not let the program break the loop.
+        
+        
+
+for loop:
+    syntax:
+        for variable_name in range(starting_number, ending_number,interval):
+            do something
+    for loop is a loop in which the loop automatically increments itself by the specified interval.
+    
+    
+    
+libraries:
+    syntax:
+        import library_name
+    library function is used to access different libraries availiable in python.
+    os library:
+        it is the system library in which you can do things based on system.
+    subprocess library:
+        it is like the os library which deals with terminal or command prompt.
+    random library:
+        It is the library to create random numbers or random things.
+        
+        
